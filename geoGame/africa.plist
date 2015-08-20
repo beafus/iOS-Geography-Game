@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>countries</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Algeria</string>
+			<key>capital</key>
+			<string>Algiers</string>
+			<key>flag</key>
+			<string>algeria_flag.png</string>
+			<key>map</key>
+			<string>algeria_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Angola</string>
+			<key>capital</key>
+			<string>Luanda</string>
+			<key>flag</key>
+			<string>angola_flag.png</string>
+			<key>map</key>
+			<string>angola_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Benin</string>
+			<key>capital</key>
+			<string>Porto Novo</string>
+			<key>flag</key>
+			<string>benin_flag.png</string>
+			<key>map</key>
+			<string>benin_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Botswana</string>
+			<key>capital</key>
+			<string>Gaborone</string>
+			<key>flag</key>
+			<string>botswana_flag.png</string>
+			<key>map</key>
+			<string>botswana_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Burkina Faso</string>
+			<key>capital</key>
+			<string>Ouagadougou</string>
+			<key>flag</key>
+			<string>burkina_flag.png</string>
+			<key>map</key>
+			<string>burkina_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Burundi</string>
+			<key>capital</key>
+			<string>Bujumbura</string>
+			<key>flag</key>
+			<string>burundi_flag.png</string>
+			<key>map</key>
+			<string>burundi_map.jpg</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Cameroon</string>
+			<key>capital</key>
+			<string>Yaoundé</string>
+			<key>flag</key>
+			<string>cameroon_flag.png</string>
+			<key>map</key>
+			<string>cameroon_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Cape Verde</string>
+			<key>capital</key>
+			<string>Praia</string>
+			<key>flag</key>
+			<string>cape_flag.png</string>
+			<key>map</key>
+			<string>cape_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Central African Republic</string>
+			<key>capital</key>
+			<string>Bangui</string>
+			<key>flag</key>
+			<string>central_flag.png</string>
+			<key>map</key>
+			<string>central_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Chad</string>
+			<key>capital</key>
+			<string>N’Djamena</string>
+			<key>flag</key>
+			<string>chad_flag.png</string>
+			<key>map</key>
+			<string>chad_map.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comoros</string>
+			<key>capital</key>
+			<string>Moroni</string>
+			<key>flag</key>
+			<string>comoros_flag.png</string>
+			<key>map</key>
+			<string>comoros_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Democratic Republic of the Congo</string>
+			<key>capital</key>
+			<string>Kinshasa</string>
+			<key>flag</key>
+			<string>democraticcongo_flag.png</string>
+			<key>map</key>
+			<string>democraticcongo_map.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Republic of Congo</string>
+			<key>capital</key>
+			<string>Brazzaville</string>
+			<key>flag</key>
+			<string>congo_flag.png</string>
+			<key>map</key>
+			<string>congo_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Djibouti</string>
+			<key>capital</key>
+			<string>Djibouti</string>
+			<key>flag</key>
+			<string>djibouti_flag.png</string>
+			<key>map</key>
+			<string>djibouti_map.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Egypt</string>
+			<key>capital</key>
+			<string>Cairo</string>
+			<key>flag</key>
+			<string>egypt_flag.png</string>
+			<key>map</key>
+			<string>egypt_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Equatorial Guinea</string>
+			<key>capital</key>
+			<string>Malabo</string>
+			<key>flag</key>
+			<string>equatorial_flag.png</string>
+			<key>map</key>
+			<string>equatorial_map.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Eritrea</string>
+			<key>capital</key>
+			<string>Asmara</string>
+			<key>flag</key>
+			<string>eritrea_flag.png</string>
+			<key>map</key>
+			<string>eritrea_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Ethiopia</string>
+			<key>capital</key>
+			<string>Addis Ababa</string>
+			<key>flag</key>
+			<string>ethiopia_flag.png</string>
+			<key>map</key>
+			<string>ethiopia_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Gabon</string>
+			<key>capital</key>
+			<string>Libreville</string>
+			<key>flag</key>
+			<string>gabon_flag.png</string>
+			<key>map</key>
+			<string>gabon_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Gambia</string>
+			<key>capital</key>
+			<string>Banjul</string>
+			<key>flag</key>
+			<string>gambia_flag.png</string>
+			<key>map</key>
+			<string>gambia_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Ghana</string>
+			<key>capital</key>
+			<string>Accra</string>
+			<key>flag</key>
+			<string>ghana_flag.png</string>
+			<key>map</key>
+			<string>ghana_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Guinea</string>
+			<key>capital</key>
+			<string>Conakry</string>
+			<key>flag</key>
+			<string>guinea_flag.png</string>
+			<key>map</key>
+			<string>guinea_map.png</string>
+		</dict>
+
+			<dict>
+			<key>name</key>
+			<string>Guinea-Bissau</string>
+			<key>capital</key>
+			<string>Bissau</string>
+			<key>flag</key>
+			<string>bissau_flag.png</string>
+			<key>map</key>
+			<string>bissau_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Ivory Coast</string>
+			<key>capital</key>
+			<string>Yamoussoukro</string>
+			<key>flag</key>
+			<string>ivory_flag.png</string>
+			<key>map</key>
+			<string>ivory_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Kenya</string>
+			<key>capital</key>
+			<string>Nairobi</string>
+			<key>flag</key>
+			<string>kenya_flag.png</string>
+			<key>map</key>
+			<string>kenya_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Lesotho</string>
+			<key>capital</key>
+			<string>Maseru</string>
+			<key>flag</key>
+			<string>lesotho_flag.png</string>
+			<key>map</key>
+			<string>lesotho_map.png</string>
+		</dict>
+
+			<dict>
+			<key>name</key>
+			<string>Liberia</string>
+			<key>capital</key>
+			<string>Monrovia</string>
+			<key>flag</key>
+			<string>liberia_flag.png</string>
+			<key>map</key>
+			<string>liberia_map.png</string>
+		</dict>
+
+			<dict>
+			<key>name</key>
+			<string>Libya</string>
+			<key>capital</key>
+			<string>Tripoli</string>
+			<key>flag</key>
+			<string>libya_flag.png</string>
+			<key>map</key>
+			<string>libya_map.png</string>
+		</dict>
+
+			<dict>
+			<key>name</key>
+			<string>Madagascar</string>
+			<key>capital</key>
+			<string>Antananarivo</string>
+			<key>flag</key>
+			<string>madagascar_flag.png</string>
+			<key>map</key>
+			<string>madagascar_map.png</string>
+		</dict>
+
+			<dict>
+			<key>name</key>
+			<string>Malawi</string>
+			<key>capital</key>
+			<string>Lilongwe</string>
+			<key>flag</key>
+			<string>malawi_flag.png</string>
+			<key>map</key>
+			<string>malawi_map.png</string>
+		</dict>
+
+			<dict>
+			<key>name</key>
+			<string>Mali</string>
+			<key>capital</key>
+			<string>Bamako</string>
+			<key>flag</key>
+			<string>mali_flag.png</string>
+			<key>map</key>
+			<string>mali_map.png</string>
+		</dict>
+
+			<dict>
+			<key>name</key>
+			<string>Mauritania</string>
+			<key>capital</key>
+			<string>Nouakchott</string>
+			<key>flag</key>
+			<string>mauritania_flag.png</string>
+			<key>map</key>
+			<string>mauritania_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Mauritius</string>
+			<key>capital</key>
+			<string>Port Louis</string>
+			<key>flag</key>
+			<string>mauritius_flag.png</string>
+			<key>map</key>
+			<string>mauritius_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Morocco</string>
+			<key>capital</key>
+			<string>Rabat</string>
+			<key>flag</key>
+			<string>morocco_flag.png</string>
+			<key>map</key>
+			<string>morocco_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Mozambique</string>
+			<key>capital</key>
+			<string>Maputo</string>
+			<key>flag</key>
+			<string>mozambique_flag.png</string>
+			<key>map</key>
+			<string>mozambique_map.png</string>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>Namibia</string>
+			<key>capital</key>
+			<string>Windhoek</string>
+			<key>flag</key>
+			<string>namibia_flag.png</string>
+			<key>map</key>
+			<string>namibia_map.png</string>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>Niger</string>
+			<key>capital</key>
+			<string>Niamey</string>
+			<key>flag</key>
+			<string>niger_flag.png</string>
+			<key>map</key>
+			<string>niger_map.png</string>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>Nigeria</string>
+			<key>capital</key>
+			<string>Abuja</string>
+			<key>flag</key>
+			<string>nigeria_flag.png</string>
+			<key>map</key>
+			<string>nigeria_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Rwanda</string>
+			<key>capital</key>
+			<string>Kigali</string>
+			<key>flag</key>
+			<string>rwanda_flag.png</string>
+			<key>map</key>
+			<string>rwanda_map.png</string>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>São Tomé and Príncipe</string>
+			<key>capital</key>
+			<string>São Tomé</string>
+			<key>flag</key>
+			<string>saotome_flag.png</string>
+			<key>map</key>
+			<string>saotome_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Senegal</string>
+			<key>capital</key>
+			<string>Dakar</string>
+			<key>flag</key>
+			<string>senegal_flag.png</string>
+			<key>map</key>
+			<string>senegal_map.png</string>
+		</dict>
+
+
+		<dict>
+			<key>name</key>
+			<string>Seychelles</string>
+			<key>capital</key>
+			<string>Victoria</string>
+			<key>flag</key>
+			<string>seychelles_flag.png</string>
+			<key>map</key>
+			<string>seychelles_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Sierra Leone</string>
+			<key>capital</key>
+			<string>Freetown</string>
+			<key>flag</key>
+			<string>sierraleone_flag.png</string>
+			<key>map</key>
+			<string>sierraleone_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Somalia</string>
+			<key>capital</key>
+			<string>Mogadishu</string>
+			<key>flag</key>
+			<string>somalia_flag.png</string>
+			<key>map</key>
+			<string>somalia_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>South Africa</string>
+			<key>capital</key>
+			<string>Pretoria</string>
+			<key>flag</key>
+			<string>southafrica_flag.png</string>
+			<key>map</key>
+			<string>southafrica_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>South Sudan</string>
+			<key>capital</key>
+			<string>Juba</string>
+			<key>flag</key>
+			<string>southsudan_flag.png</string>
+			<key>map</key>
+			<string>southsudan_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Sudan</string>
+			<key>capital</key>
+			<string>Khartum</string>
+			<key>flag</key>
+			<string>sudan_flag.png</string>
+			<key>map</key>
+			<string>sudan_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Swaziland</string>
+			<key>capital</key>
+			<string>Mbabane</string>
+			<key>flag</key>
+			<string>swaziland_flag.png</string>
+			<key>map</key>
+			<string>swaziland_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Tanzania</string>
+			<key>capital</key>
+			<string>Dodoma</string>
+			<key>flag</key>
+			<string>tanzania_flag.png</string>
+			<key>map</key>
+			<string>tanzania_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Togo</string>
+			<key>capital</key>
+			<string>Lomé</string>
+			<key>flag</key>
+			<string>togo_flag.png</string>
+			<key>map</key>
+			<string>togo_map.png</string>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Tunisia</string>
+			<key>capital</key>
+			<string>Tunis</string>
+			<key>flag</key>
+			<string>tunisia_flag.png</string>
+			<key>map</key>
+			<string>tunisia_map.png</string>
+		</dict>
+
+
+<dict>
+			<key>name</key>
+			<string>Uganda</string>
+			<key>capital</key>
+			<string>Kampala</string>
+			<key>flag</key>
+			<string>uganda_flag.png</string>
+			<key>map</key>
+			<string>uganda_map.png</string>
+		</dict>
+
+
+<dict>
+			<key>name</key>
+			<string>Zambia</string>
+			<key>capital</key>
+			<string>Lusaka</string>
+			<key>flag</key>
+			<string>zambia_flag.png</string>
+			<key>map</key>
+			<string>zambia_map.png</string>
+		</dict>
+
+
+<dict>
+			<key>name</key>
+			<string>Zimbabwe</string>
+			<key>capital</key>
+			<string>Harare</string>
+			<key>flag</key>
+			<string>zimbabwe_flag.png</string>
+			<key>map</key>
+			<string>zimbabwe_map.png</string>
+		</dict>
+
+
+		
+	</array>
+</dict>
+</plist>
+

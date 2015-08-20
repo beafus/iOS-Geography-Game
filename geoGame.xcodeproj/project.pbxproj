@@ -1,0 +1,468 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2F3FAC421AFA86920012D284 /* oceania.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F3FAC411AFA86920012D284 /* oceania.plist */; };
+		2FA7BCE61AE0403B00A16647 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA7BCE51AE0403B00A16647 /* AppDelegate.swift */; };
+		2FA7BCE81AE0403B00A16647 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA7BCE71AE0403B00A16647 /* ViewController.swift */; };
+		2FA7BCEB1AE0403B00A16647 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FA7BCE91AE0403B00A16647 /* Main.storyboard */; };
+		2FA7BCED1AE0403B00A16647 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FA7BCEC1AE0403B00A16647 /* Images.xcassets */; };
+		2FA7BCF01AE0403B00A16647 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FA7BCEE1AE0403B00A16647 /* LaunchScreen.xib */; };
+		2FA7BCFC1AE0403B00A16647 /* geoGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA7BCFB1AE0403B00A16647 /* geoGameTests.swift */; };
+		2FA7BD061AE0424A00A16647 /* CapitalsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA7BD051AE0424A00A16647 /* CapitalsViewController.swift */; };
+		2FA7BD081AE0425D00A16647 /* FlagsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA7BD071AE0425D00A16647 /* FlagsViewController.swift */; };
+		2FA7BD0A1AE0426D00A16647 /* MapsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA7BD091AE0426D00A16647 /* MapsViewController.swift */; };
+		2FA7BD0C1AE0428300A16647 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA7BD0B1AE0428300A16647 /* GameViewController.swift */; };
+		2FA7BD0E1AE04C3500A16647 /* europe.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2FA7BD0D1AE04C3500A16647 /* europe.plist */; };
+		2FA7BD101AE08C8900A16647 /* GameOverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA7BD0F1AE08C8900A16647 /* GameOverViewController.swift */; };
+		2FAE11BE1AF871FA007E10BD /* asia.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2FAE11BD1AF871FA007E10BD /* asia.plist */; };
+		2FE3E4021AE869F80073617B /* america.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2FE3E4011AE869F80073617B /* america.plist */; };
+		2FE3E4041AE873530073617B /* africa.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2FE3E4031AE873530073617B /* africa.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2FA7BCF61AE0403B00A16647 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2FA7BCD81AE0403B00A16647 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2FA7BCDF1AE0403B00A16647;
+			remoteInfo = geoGame;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2F3FAC411AFA86920012D284 /* oceania.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = oceania.plist; sourceTree = "<group>"; };
+		2FA7BCE01AE0403B00A16647 /* geoGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = geoGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2FA7BCE41AE0403B00A16647 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FA7BCE51AE0403B00A16647 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2FA7BCE71AE0403B00A16647 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2FA7BCEA1AE0403B00A16647 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2FA7BCEC1AE0403B00A16647 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		2FA7BCEF1AE0403B00A16647 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		2FA7BCF51AE0403B00A16647 /* geoGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = geoGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2FA7BCFA1AE0403B00A16647 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FA7BCFB1AE0403B00A16647 /* geoGameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = geoGameTests.swift; sourceTree = "<group>"; };
+		2FA7BD051AE0424A00A16647 /* CapitalsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CapitalsViewController.swift; sourceTree = "<group>"; };
+		2FA7BD071AE0425D00A16647 /* FlagsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlagsViewController.swift; sourceTree = "<group>"; };
+		2FA7BD091AE0426D00A16647 /* MapsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapsViewController.swift; sourceTree = "<group>"; };
+		2FA7BD0B1AE0428300A16647 /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		2FA7BD0D1AE04C3500A16647 /* europe.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = europe.plist; sourceTree = "<group>"; };
+		2FA7BD0F1AE08C8900A16647 /* GameOverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameOverViewController.swift; sourceTree = "<group>"; };
+		2FAE11BD1AF871FA007E10BD /* asia.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = asia.plist; sourceTree = "<group>"; };
+		2FE3E4011AE869F80073617B /* america.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = america.plist; sourceTree = "<group>"; };
+		2FE3E4031AE873530073617B /* africa.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = africa.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2FA7BCDD1AE0403B00A16647 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2FA7BCF21AE0403B00A16647 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2FA7BCD71AE0403B00A16647 = {
+			isa = PBXGroup;
+			children = (
+				2FA7BCE21AE0403B00A16647 /* geoGame */,
+				2FA7BCF81AE0403B00A16647 /* geoGameTests */,
+				2FA7BCE11AE0403B00A16647 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2FA7BCE11AE0403B00A16647 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2FA7BCE01AE0403B00A16647 /* geoGame.app */,
+				2FA7BCF51AE0403B00A16647 /* geoGameTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2FA7BCE21AE0403B00A16647 /* geoGame */ = {
+			isa = PBXGroup;
+			children = (
+				2FA7BCE51AE0403B00A16647 /* AppDelegate.swift */,
+				2FE3E4031AE873530073617B /* africa.plist */,
+				2FA7BD0D1AE04C3500A16647 /* europe.plist */,
+				2FE3E4011AE869F80073617B /* america.plist */,
+				2FA7BCE71AE0403B00A16647 /* ViewController.swift */,
+				2FAE11BD1AF871FA007E10BD /* asia.plist */,
+				2F3FAC411AFA86920012D284 /* oceania.plist */,
+				2FA7BCE91AE0403B00A16647 /* Main.storyboard */,
+				2FA7BD0B1AE0428300A16647 /* GameViewController.swift */,
+				2FA7BD051AE0424A00A16647 /* CapitalsViewController.swift */,
+				2FA7BD0F1AE08C8900A16647 /* GameOverViewController.swift */,
+				2FA7BD071AE0425D00A16647 /* FlagsViewController.swift */,
+				2FA7BD091AE0426D00A16647 /* MapsViewController.swift */,
+				2FA7BCEC1AE0403B00A16647 /* Images.xcassets */,
+				2FA7BCEE1AE0403B00A16647 /* LaunchScreen.xib */,
+				2FA7BCE31AE0403B00A16647 /* Supporting Files */,
+			);
+			path = geoGame;
+			sourceTree = "<group>";
+		};
+		2FA7BCE31AE0403B00A16647 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2FA7BCE41AE0403B00A16647 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2FA7BCF81AE0403B00A16647 /* geoGameTests */ = {
+			isa = PBXGroup;
+			children = (
+				2FA7BCFB1AE0403B00A16647 /* geoGameTests.swift */,
+				2FA7BCF91AE0403B00A16647 /* Supporting Files */,
+			);
+			path = geoGameTests;
+			sourceTree = "<group>";
+		};
+		2FA7BCF91AE0403B00A16647 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2FA7BCFA1AE0403B00A16647 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2FA7BCDF1AE0403B00A16647 /* geoGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2FA7BCFF1AE0403B00A16647 /* Build configuration list for PBXNativeTarget "geoGame" */;
+			buildPhases = (
+				2FA7BCDC1AE0403B00A16647 /* Sources */,
+				2FA7BCDD1AE0403B00A16647 /* Frameworks */,
+				2FA7BCDE1AE0403B00A16647 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = geoGame;
+			productName = geoGame;
+			productReference = 2FA7BCE01AE0403B00A16647 /* geoGame.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2FA7BCF41AE0403B00A16647 /* geoGameTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2FA7BD021AE0403B00A16647 /* Build configuration list for PBXNativeTarget "geoGameTests" */;
+			buildPhases = (
+				2FA7BCF11AE0403B00A16647 /* Sources */,
+				2FA7BCF21AE0403B00A16647 /* Frameworks */,
+				2FA7BCF31AE0403B00A16647 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2FA7BCF71AE0403B00A16647 /* PBXTargetDependency */,
+			);
+			name = geoGameTests;
+			productName = geoGameTests;
+			productReference = 2FA7BCF51AE0403B00A16647 /* geoGameTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2FA7BCD81AE0403B00A16647 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "Beatriz Fuster Gonzalez";
+				TargetAttributes = {
+					2FA7BCDF1AE0403B00A16647 = {
+						CreatedOnToolsVersion = 6.3;
+					};
+					2FA7BCF41AE0403B00A16647 = {
+						CreatedOnToolsVersion = 6.3;
+						TestTargetID = 2FA7BCDF1AE0403B00A16647;
+					};
+				};
+			};
+			buildConfigurationList = 2FA7BCDB1AE0403B00A16647 /* Build configuration list for PBXProject "geoGame" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2FA7BCD71AE0403B00A16647;
+			productRefGroup = 2FA7BCE11AE0403B00A16647 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2FA7BCDF1AE0403B00A16647 /* geoGame */,
+				2FA7BCF41AE0403B00A16647 /* geoGameTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2FA7BCDE1AE0403B00A16647 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2FE3E4041AE873530073617B /* africa.plist in Resources */,
+				2FA7BCEB1AE0403B00A16647 /* Main.storyboard in Resources */,
+				2FA7BCF01AE0403B00A16647 /* LaunchScreen.xib in Resources */,
+				2FE3E4021AE869F80073617B /* america.plist in Resources */,
+				2FA7BD0E1AE04C3500A16647 /* europe.plist in Resources */,
+				2FAE11BE1AF871FA007E10BD /* asia.plist in Resources */,
+				2FA7BCED1AE0403B00A16647 /* Images.xcassets in Resources */,
+				2F3FAC421AFA86920012D284 /* oceania.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2FA7BCF31AE0403B00A16647 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2FA7BCDC1AE0403B00A16647 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2FA7BD0A1AE0426D00A16647 /* MapsViewController.swift in Sources */,
+				2FA7BD081AE0425D00A16647 /* FlagsViewController.swift in Sources */,
+				2FA7BCE81AE0403B00A16647 /* ViewController.swift in Sources */,
+				2FA7BD061AE0424A00A16647 /* CapitalsViewController.swift in Sources */,
+				2FA7BD101AE08C8900A16647 /* GameOverViewController.swift in Sources */,
+				2FA7BD0C1AE0428300A16647 /* GameViewController.swift in Sources */,
+				2FA7BCE61AE0403B00A16647 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2FA7BCF11AE0403B00A16647 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2FA7BCFC1AE0403B00A16647 /* geoGameTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2FA7BCF71AE0403B00A16647 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2FA7BCDF1AE0403B00A16647 /* geoGame */;
+			targetProxy = 2FA7BCF61AE0403B00A16647 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		2FA7BCE91AE0403B00A16647 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2FA7BCEA1AE0403B00A16647 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2FA7BCEE1AE0403B00A16647 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2FA7BCEF1AE0403B00A16647 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2FA7BCFD1AE0403B00A16647 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2FA7BCFE1AE0403B00A16647 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2FA7BD001AE0403B00A16647 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = geoGame/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2FA7BD011AE0403B00A16647 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = geoGame/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2FA7BD031AE0403B00A16647 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = geoGameTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/geoGame.app/geoGame";
+			};
+			name = Debug;
+		};
+		2FA7BD041AE0403B00A16647 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = geoGameTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/geoGame.app/geoGame";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2FA7BCDB1AE0403B00A16647 /* Build configuration list for PBXProject "geoGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2FA7BCFD1AE0403B00A16647 /* Debug */,
+				2FA7BCFE1AE0403B00A16647 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2FA7BCFF1AE0403B00A16647 /* Build configuration list for PBXNativeTarget "geoGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2FA7BD001AE0403B00A16647 /* Debug */,
+				2FA7BD011AE0403B00A16647 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2FA7BD021AE0403B00A16647 /* Build configuration list for PBXNativeTarget "geoGameTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2FA7BD031AE0403B00A16647 /* Debug */,
+				2FA7BD041AE0403B00A16647 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2FA7BCD81AE0403B00A16647 /* Project object */;
+}
